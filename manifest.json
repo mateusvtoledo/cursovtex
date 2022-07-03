@@ -1,5 +1,5 @@
 {
-  "vendor": "vtex",
+  "vendor": "atmosphere",
   "name": "store-theme",
   "version": "5.1.0",
   "builders": {
